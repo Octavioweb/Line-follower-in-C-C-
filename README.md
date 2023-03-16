@@ -11,7 +11,7 @@ This device is capable of doing the following tasks:
 * Two RGB Leds to show the state of the vehicle. Red if stopped, Blue if in movement, Green if waiting for instructions. 
 * A 8x16 Led screen on the top, thats shows the direction it's going.
 
-The entire program was made using MicroChip studio, in a program that incorporated assembly, C++ and C code. The code used for this project was around 600 lines long, and included some advanced topics like pointers, OOP in C++, ascii tables, modular programming and bluetooth serial comunication. 
+The entire program was made using MicroChip studio, in a program that incorporated assembly, C++ and C code. The code used for this project was around 600 lines long, and included some advanced topics like pointers, OOP in C++, ascii tables, modular programming, timers, registers and bluetooth serial comunication. 
 
 ## CODE
 

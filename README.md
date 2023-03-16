@@ -15,4 +15,4 @@ The entire program was made using MicroChip studio, in a program that incorporat
 
 ## CODE
 
-The main code is in the file 'QBOT.C', and it's dependancies are included. 
+The main code is in the file 'QBOT.cpp', and it's dependancies are included. 

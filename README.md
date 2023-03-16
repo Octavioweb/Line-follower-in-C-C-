@@ -1,4 +1,4 @@
-# Line-follower-in-C-C-
+# Line-follower-in-CPP-and-C
 Code of a line follower vehicle, made in AVR C for a final project in university.
 
 ## Introduction
